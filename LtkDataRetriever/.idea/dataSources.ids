@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="SQLite - ltk.db" uuid="13000768-efaa-49c6-8410-6435aaedb592">
+    <database-info product="SQLite" version="3.7.15" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
+    <schema name="" catalog=""/>
+    <table name="ABILITIES" schema="" catalog="" type="TABLE"/>
+    <table name="CARDS_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="CARD_TYPE" schema="" catalog="" type="TABLE"/>
+    <table name="DECK_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="FACTIONS" schema="" catalog="" type="TABLE"/>
+    <table name="FAQ_CARD_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="FAQ_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="GENDERS" schema="" catalog="" type="TABLE"/>
+    <table name="GENERAL_RULE" schema="" catalog="" type="TABLE"/>
+    <table name="HEROES_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="HERO_ABILITY_PAIR_ROLE" schema="" catalog="" type="TABLE">
+      <column name="HERO_ID" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <column name="ABILITY_NAME" sqlType="TEXT" length="2000000000" precision="10" nullable="false" jdbcType="12"/>
+      <primary-key columns="&quot;hero_id&quot;,&quot;ability_name&quot;"/>
+    </table>
+    <table name="PACKAGES" schema="" catalog="" type="TABLE"/>
+    <table name="TERMINOLOGIES" schema="" catalog="" type="TABLE"/>
+    <table name="sqlite_sequence" schema="" catalog="" type="TABLE"/>
+  </data-source>
+</component>

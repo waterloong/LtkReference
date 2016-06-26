@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>孙坚</Name><Title>武烈帝</Title><Id>WU009</Id><Pack>林</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>英魂</AbilityName><AbilityDescription>准备阶段开始时，若你已受伤，你可以选择一项：</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+1.令一名其他角色摸X张牌，然后弃置一张牌；
+2.令一名其他角色摸一张牌，然后弃置X张牌。（X为你已损失的体力值）</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]孙坚满体力时能否发动英魂？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]孙坚能否对自己发动英魂？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]目标角色能否弃掉装备牌？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]目标角色摸牌后不够弃掉X张牌，如何结算？
+</Question><Answer>[A]弃掉所有的牌。
+
+</Answer></Pair><Pair><Question>[Q]目标角色能否弃掉判定区里的牌？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]陆逊只有一张手牌没有装备，孙坚另其摸一张牌，然后弃掉三张，陆逊在弃掉两张牌后发动连营，是否还要再弃掉一张牌？
+</Question><Answer>[A]不用。弃牌是一次性的。
+
+</Answer></Pair><Pair><Question>[Q]孙坚发动英魂时，能否两项都选择？
+</Question><Answer>[A]不能。只能选择一项。</Answer></Pair></FAQs></Hero>

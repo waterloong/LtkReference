@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>大乔</Name><Title>矜持之花</Title><Id>WU006</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>国色</AbilityName><AbilityDescription>出牌阶段，你可以将你的一张方片花色的牌当【乐不思蜀】使用。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>流离</AbilityName><AbilityDescription>当你成为【杀】的目标时，你可以弃置一张牌，并将此【杀】转移给你攻击范围内的一名其他角色，该角色不得是【杀】的使用者。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]大乔是否可以先发动【八卦阵】的效果，判定出黑色了之后再发动【流离】？
+</Question><Answer>[A]不可以。
+
+</Answer></Pair><Pair><Question>[Q]大乔用作【乐不思蜀】的方块花色的牌，如果被其他玩家使用【顺手牵羊】得到，是否也可以将其当作【乐不思蜀】使用？
+</Question><Answer>[A]不可以。只能按照原来的牌使用。
+
+</Answer></Pair><Pair><Question>[Q]大乔是否可以将自己面前的方块装备牌当【乐不思蜀】使用？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]大乔如果成为黑色【杀】的目标，是否可以发动【流离】将黑色【杀】转移给攻击范围内给装备了【仁王盾】的角色？
+</Question><Answer>[A]可以。但是该【杀】无效。
+
+</Answer></Pair><Pair><Question>[Q]大乔是否可以将其装备区的装备牌用于【流离】？
+</Question><Answer>[A]可以。但是计算其他角色是否在攻击范围内时，不可以将弃掉的牌算入。
+
+</Answer></Pair><Pair><Question>[Q]一名角色A装备【青龙偃月刀】杀大乔，大乔使用【闪】后，A发动武器技能继续对大乔使用【杀】，大乔是否可以发动【流离】转移此【杀】给攻击范围内的角色B？如果可以，B使用【闪】后，若A再次发动武器技能，这是使用【杀】的目标是谁？
+</Question><Answer>[A]这种情况下，大乔可以发动【流离】。若B使用【闪】后，A再次发动【青龙偃月刀】的技能，【杀】的目标是B，即使用【闪】的角色。
+
+</Answer></Pair><Pair><Question>[Q]大乔装备【仁王盾】受到别人的黑【杀】，能否发动【流离】？
+</Question><Answer>[A]能。
+
+</Answer></Pair><Pair><Question>[Q]大乔装备【藤甲】受到别人的普杀，能否发动【流离】？
+</Question><Answer>[A]能。</Answer></Pair></FAQs></Hero>

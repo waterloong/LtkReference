@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>曹彰</Name><Title>黄须儿</Title><Id>YJ102</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>将驰</AbilityName><AbilityDescription>摸牌阶段，你可以选择一项：</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+1.额外摸一张牌，若如此做，你不能使用或打出【杀】，直到回合结束；
+2.少摸一张牌，若如此做，你于出牌阶段内使用【杀】无距离限制且能额外使用一张【杀】，直到回合结束。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]曹彰发动【将驰】，在出牌阶段使用的第二张【杀】时候有距离限制？ 
+</Question><Answer>[A]无距离限制。</Answer></Pair></FAQs></Hero>

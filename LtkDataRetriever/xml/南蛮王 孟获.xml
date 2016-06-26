@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>孟获</Name><Title>南蛮王</Title><Id>SHU014</Id><Pack>林</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>蜀</Faction><Abilities><Ability><AbilityName>祸首</AbilityName><AbilityDescription>锁定技，【南蛮入侵】对你无效；锁定技，每当其他角色使用【南蛮入侵】指定目标后，你成为此【南蛮入侵】造成伤害的来源。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>再起</AbilityName><AbilityDescription>摸牌阶段开始时，若你已受伤，你可以放弃摸牌，从牌堆顶亮出X张牌（X为你已损失的体力值），你回复等同于其中红桃牌数量的体力，然后将这些红桃牌置入弃牌堆，最后获得其余的牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]其他角色使用【南蛮入侵】，对司马懿造成伤害，司马懿反馈谁？
+</Question><Answer>[A]孟获。另外，孟获做主公时，任何角色使用的【南蛮入侵】杀死反贼或忠臣，都由孟获执行奖惩。 
+
+</Answer></Pair><Pair><Question>[Q]小乔能否将【南蛮入侵】的伤害转移给孟获？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]孟获能否在满体力时发动再起？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]孟获能否在亮开牌后选择不回体力而将其中的红桃牌收入手牌？
+</Question><Answer>[A]不能。若发动技能，每有一张红桃牌，必须回复1点体力。
+
+</Answer></Pair><Pair><Question>[Q]孟获受到兵粮寸断影响时能否发动再起？
+</Question><Answer>[A]不能。再起是摸牌阶段发动的。
+
+</Answer></Pair><Pair><Question>[Q]一名角色使用的【南蛮入侵】导致孟获死亡（例如夏侯惇的刚烈），之后这张【南蛮入侵】的伤害来源是谁？
+</Question><Answer>[A]由于孟获已经死亡，所以这张【南蛮入侵】没有伤害来源。</Answer></Pair></FAQs></Hero>

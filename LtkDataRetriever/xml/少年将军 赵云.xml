@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>赵云</Name><Title>少年将军</Title><Id>SHU005</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>蜀</Faction><Abilities><Ability><AbilityName>龙胆</AbilityName><AbilityDescription>你可以将【杀】当【闪】、【闪】当【杀】使用或打出。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]赵云能否发动【丈八蛇矛】的特效打出两张手牌当【闪】？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]赵云能否发动【八卦阵】的特效判定红色牌当【杀】？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]赵云发动龙胆所出的杀的属性如何决定？
+</Question><Answer>[A]均视为普杀。</Answer></Pair></FAQs></Hero>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>周瑜</Name><Title>大都督</Title><Id>WU005</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>英姿</AbilityName><AbilityDescription>摸牌阶段摸牌时，你可以额外摸一张牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>反间</AbilityName><AbilityDescription>出牌阶段，你可以指定一名其他角色，该角色选择一种花色后获得你的一张手牌并展示之，若此牌与所选花色不同，则你对该角色造成1点伤害。每个阶段限一次。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]周瑜发动【反间】时，如果目标角色受伤害进入濒死状态，抽到的【反间】牌是【桃】时，是否可以立即使用这张【桃】自救？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]周瑜发动【反间】时，如果有多张手牌，牌的放置顺序由谁决定？
+</Question><Answer>[A]由周瑜决定。
+
+</Answer></Pair><Pair><Question>[Q]周瑜发动【反间】时，在结算过程中，【反间】牌归谁所有？
+</Question><Answer>[A]无论什么情况，都由目标角色获得。
+
+</Answer></Pair><Pair><Question>[Q]周瑜发动【反间】时，若目标角色受伤死亡，【反间】牌如何处理？
+</Question><Answer>[A]【反间】牌将属于目标角色，作为角色的手牌进行死亡结算。
+
+</Answer></Pair><Pair><Question>[Q]小乔抽取周瑜的黑桃，是否算红桃？
+</Question><Answer>[A]因为这张牌已经算是小乔的，因此可以触发【红颜】。
+
+</Answer></Pair><Pair><Question>[Q]周瑜对小乔发动【反间】，小乔天香给曹操，谁获得周瑜的反间牌？
+</Question><Answer>[A]小乔。
+
+</Answer></Pair><Pair><Question>[Q]周瑜受到【兵粮寸断】的效果时，能否发动英姿？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]周瑜发动【反间】技能造成的伤害是什么属性？
+</Question><Answer>[A]普通伤害。
+
+</Answer></Pair><Pair><Question>[Q]周瑜【反间】过程中，【反间】牌是否需要一直明示？
+</Question><Answer>[A]需要一直明示直到【反间】全部结算完毕。即是周瑜【反间】司马懿时，司马懿发动反馈，此时【反间】牌还处于明示状态。</Answer></Pair></FAQs></Hero>

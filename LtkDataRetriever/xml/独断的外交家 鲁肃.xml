@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>鲁肃</Name><Title>独断的外交家</Title><Id>WU014</Id><Pack>林</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>好施</AbilityName><AbilityDescription>摸牌阶段，你可以额外摸两张牌，然后若你的手牌多于五张，你将一半（向下取整）的手牌交给手牌数最少的一名其他角色。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>缔盟</AbilityName><AbilityDescription>出牌阶段限一次，你可以选择两名其他角色并弃置X张牌（X为这两名角色手牌数的差），令这两名角色交换手牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]场上有多名角色手牌同为最少时，如何结算？
+</Question><Answer>[A]鲁肃选择其中一名角色，将手牌的一半交给他。
+
+</Answer></Pair><Pair><Question>[Q]鲁肃手牌为单数时如何结算？
+</Question><Answer>[A]向下取整。（例：鲁肃有三张手牌，发动好施后变为七张，这时将三张交给一名手牌最少的角色，鲁肃自己保留四张）
+
+</Answer></Pair><Pair><Question>[Q]鲁肃能否先摸两张牌然后再决定是否发动好施？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]鲁肃能否指定没手牌的角色缔盟？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]交换陆逊的手牌，陆逊能否连营？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]发动缔盟时，鲁肃能否弃掉已装备的牌？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]鲁肃缔盟能否指定自己？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]缔盟的目标能否拒绝交换手牌？
+</Question><Answer>[A]不能。</Answer></Pair></FAQs></Hero>

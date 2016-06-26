@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>甘宁</Name><Title>锦帆游侠</Title><Id>WU002</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>奇袭</AbilityName><AbilityDescription>出牌阶段，你可以将一张黑色牌当【过河拆桥】使用。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]甘宁发动【奇袭】时，是否可以使用【无懈可击】抵消其效果？
+</Question><Answer>[A]可以。抵消【过河拆桥】的效果。
+
+</Answer></Pair><Pair><Question>[Q]甘宁能否使用自己面前的装备牌发动【奇袭】？
+</Question><Answer>[A]可以。</Answer></Pair></FAQs></Hero>

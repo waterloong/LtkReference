@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>华佗</Name><Title>神医</Title><Id>QUN001</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>群</Faction><Abilities><Ability><AbilityName>急救</AbilityName><AbilityDescription>你的回合外，你可以将一张红色牌当【桃】使用。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>青囊</AbilityName><AbilityDescription>出牌阶段，你可以弃置一张手牌，令一名已受伤角色回复1点体力。每阶段限一次。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]华佗是否可以用装备区里的红色的牌来发动【急救】技能？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]华佗在自己回合外进入濒死状态时，是否可以发动【急救】？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]华佗判定【闪电】后受到【闪电】的伤害时，是否可以发动【急救】技能？
+</Question><Answer>[A]不可以，因为华佗判定【闪电】即说明华佗处于自己回合内，不符合【急救】的发动条件。同理，华佗在自己回合内被【刚烈】或者【天香】等技能影响而进入濒死状态，也不能发动【急救】技能。 
+
+</Answer></Pair><Pair><Question>[Q]能否对满体力值的角色发动【青囊】？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]【青囊】技能每回合能使用几次？
+</Question><Answer>[A]1次。</Answer></Pair></FAQs></Hero>

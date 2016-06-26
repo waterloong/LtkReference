@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>凌统</Name><Title>豪情烈胆</Title><Id>YJ005</Id><Pack>一將成名2011</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>旋风</AbilityName><AbilityDescription>每当你失去装备区里的牌时，你可以选择一项：</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+1.视为使用一张【杀】。
+2.对距离为1的一名角色造成1点伤害。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q] 失去装备区里的牌是什么意思？
+</Question><Answer>[A] 即失去一次装备区里的牌。凌统变更装备区里的一张牌，执行主公杀死忠臣的奖惩，以及执行【贯石斧】、【英魂】、【甘露】的效果弃置/交换装备区里的牌时，都是失去一次装备区里的牌，可以发动一次【旋风】；其他角色对凌统使用【杀】造成伤害时，发动【寒冰剑】弃置凌统装备区里的牌是一张一张弃置的，每弃置一张凌统就可以发动一次【旋风】。
+
+</Answer></Pair><Pair><Question>[Q] 曹植在场时，角色对凌统使用【过河拆桥】选择弃置其装备区里的一张梅花牌时，如何结算？
+</Question><Answer>[A] 该牌进入弃牌堆时，曹植可以发动【落英】获得该牌。该牌进入弃牌堆后/曹植发动【落英】获得该牌后即凌统失去该牌，凌统可以发动【旋风】。（tips）
+tips：
+关于“失去”牌发动技能，有以下几点需要注意：
+
+1、旧版FAQ中的写法是因为考虑到凌统的技能特殊性，本来打算结算时经过一个虚拟的区域，因此将【过河拆桥】、【顺手牵羊】、【反馈】、【猛进】等会导致失去牌的结算都打断处理，现在为了便于大家理解和操作，除了“交换”，其他情况下移动牌不经过虚拟区域，因此重新定义了“失去”的概念，取消了不必要的打断处理。
+
+2、弃牌有两个时机：进入弃牌堆时，进入弃牌堆后。曹植在其他角色的牌进入弃牌堆时，可以发动【落英】获得其中的梅花牌。孙尚香/凌统在自己装备区里的牌进入弃牌堆后视为失去该牌，可以发动【枭姬】/【旋风】。
+
+</Answer></Pair><Pair><Question>[Q]角色对凌统使用【顺手牵羊】选择获得其装备区里的一张牌时，如何结算？
+</Question><Answer>[A]该牌从凌统的装备区移至该角色的手牌里后，凌统可以发动【旋风】。
+
+</Answer></Pair><Pair><Question>[Q]凌统装备【古锭刀】和【藤甲】，其下家是体力为1手牌数为0并且装备【白银狮子】和【+1马】的孙尚香，之后的座次依次为曹植、曹丕、吴国太。吴国太对凌统和孙尚香发动【甘露】时，如何结算？
+</Question><Answer>[A]交换的同时，双方同时失去装备区里的所有牌，此时【旋风】和【枭姬】都可以发动，从吴国太开始按逆时针方向，凌统和孙尚香依次决定是否发动【旋风】和【枭姬】，此时：
+
+若凌统不发动【旋风】，此时机【枭姬】和【白银狮子】都可以发动/会触发，孙尚香可以先发动武将技能【枭姬】摸四张牌，再触发装备技能【白银狮子】的第二项效果回复1点体力，最后双方同时将之前对方装备区里的所有牌移至自己的装备区里。 
+
+</Answer></Pair><Pair><Question>[Q] 凌统在弃牌阶段弃置了两张或更多的手牌后，发动【旋风】依次弃置A和B的一张手牌，此时张昭张紘发动【固政】可以获得哪些牌？
+</Question><Answer>[A] A和B被弃置的牌以及返回给凌统一张牌后的剩余手牌。因为此时是在凌统的弃牌阶段弃置的牌，即包含A和B被弃置的牌。而【固政】发动时机是其他角色的弃牌阶段结束时，只要满足该条件下被弃置的牌就可以被张昭张紘发动【固政】获得。</Answer></Pair></FAQs></Hero>

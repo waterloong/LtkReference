@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>马超</Name><Title>西凉的猛狮</Title><Id>SP011</Id><Pack>SP</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>群</Faction><Abilities><Ability><AbilityName>马术</AbilityName><AbilityDescription>锁定技，你与其他角色的距离-1。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>铁骑</AbilityName><AbilityDescription>每当你使用【杀】指定一名目标角色后，你可以进行判定，若结果为红色，该角色不能使用【闪】响应此【杀】。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]马超对装备了【八卦阵】的角色出【杀】，如何结算？
+</Question><Answer>[A]首先是马超决定是否发动【铁骑】，如果发动技能，判定为红色，则对方不能使用【闪】。如果发动技能，判定为黑色，则对方继续选择是否发动【八卦阵】的技能。
+ 
+</Answer></Pair><Pair><Question>[Q]马超是否对装备了【仁王盾】的角色使用黑【杀】，如果发动【铁骑】判定为红色，是否可以使【杀】生效？
+</Question><Answer>[A]不可以，即使【铁骑】判定为红色，黑【杀】只是不可被闪避，但依然受到【仁王盾】技能的影响而无效。类似地，对藤甲使用普杀时同理。
+ 
+</Answer></Pair><Pair><Question>[Q]马超对大乔使用【杀】，如何结算？
+</Question><Answer>[A]首先大乔选择是否【流离】，然后马超选择是否发动【铁骑】。
+ 
+</Answer></Pair><Pair><Question>[Q]马超发动【铁骑】的判定牌属于谁？
+</Question><Answer>[A]属于马超自己，因此郭嘉不能收入手牌，小乔也不能把黑桃当作红桃。
+ 
+</Answer></Pair><Pair><Question>[Q]马超装备【雌雄双股剑】使用【杀】指定一名异性角色为目标后，如何结算？
+</Question><Answer>[A]先发动武将技能，后发动武器技能。
+ 
+例如：马超对黄月英使用【杀】，马超选择发动【铁骑】，判定为红桃，此时黄月英再选择是自己弃手牌还是让马超从牌堆摸一张牌，之后黄月英受到伤害。</Answer></Pair></FAQs></Hero>

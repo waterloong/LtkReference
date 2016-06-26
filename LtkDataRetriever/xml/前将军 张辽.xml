@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>张辽</Name><Title>前将军</Title><Id>WEI004</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>魏</Faction><Abilities><Ability><AbilityName>突袭</AbilityName><AbilityDescription>摸牌阶段，你可以放弃摸牌，改为获得一至两名角色的各一张手牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+★摸牌阶段，你一旦发动突袭，就不能从牌堆获得牌；只剩一名其他角色时，你就只能选择着一名角色；若此时其他任何人都没有手牌，你就不能发动突袭。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]当场上有三名或者更多的角色时，张辽发动【突袭】是否可以只从一名角色的手牌选择获得一张牌？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]张辽发动【突袭】时，是否可以1张牌也不获得？
+</Question><Answer>[A]不可以。张辽发动【突袭】至少要存在一名有手牌的角色。如果不能满足此条件，张辽不能发动【突袭】。 
+
+</Answer></Pair><Pair><Question>[Q]张辽发动【突袭】时，是否可以从一名角色的手牌里获得2张牌？
+</Question><Answer>[A]不可以。
+
+</Answer></Pair><Pair><Question>[Q]张辽发动【突袭】时，是否可以从一名角色的手牌里获得1张牌，再从牌堆摸1张牌？
+</Question><Answer>[A]不可以，发动【突袭】就不能从牌堆获得牌。 
+
+</Answer></Pair><Pair><Question>[Q]张辽发动【突袭】时，是否可以摸1张牌后先看是什么牌，再摸第2张牌？
+</Question><Answer>[A]不可以，张辽必须先摸完牌才能看。 
+
+</Answer></Pair><Pair><Question>[Q]张辽受到【兵粮寸断】的效果时，能否发动【突袭】？
+</Question><Answer>[A]不可以。</Answer></Pair></FAQs></Hero>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>步练师</Name><Title>无冕之后</Title><Id>YJ101</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>安恤</AbilityName><AbilityDescription>出牌阶段限一次，你可以选择两名手牌数不相等的其他角色，令其中手牌少的角色先获得手牌多的角色的一张手牌再展示之，若此牌不为黑桃，你摸一张牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>追忆</AbilityName><AbilityDescription>当你死亡时，你可以令一名其他角色（杀死你的角色除外）摸三张牌，然后令其回复1点体力。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]步练师对一名未受伤的角色发动【追忆】，如何结算？
+</Question><Answer>[A]该角色摸三张牌，无法执行回复1点体力的效果。
+
+</Answer></Pair><Pair><Question>[Q]步练师发动【安恤】，是否可以选择两名手牌数为0的角色？
+</Question><Answer>[A]不可以。步练师发动【安恤】时，必须选择两名手牌数不相等的其他角色。
+ 
+ 
+</Answer></Pair><Pair><Question>[Q]步练师发动【安恤】，选择两名手牌不相等的角色小乔和A（其中小乔手牌比A少）。小乔获得角色A的一张手牌，展示为黑桃K。此时步练师是否可以摸一张牌？
+</Question><Answer>[A]可以。因为这张牌已经是属于小乔的，小乔触发【红颜】将此黑桃牌视为红桃牌。因此步练师可以摸一张牌。
+ 
+</Answer></Pair><Pair><Question>[Q]步练师发动【安恤】，选择两名手牌不相等的角色小乔和A（其中A手牌比小乔少）。角色A获得小乔的一张手牌，展示为黑桃K。此时步练师是否可以摸一张牌？
+</Question><Answer>[A]不可以。因为这张牌已经不属于小乔，不能发动【红颜】
+ 
+</Answer></Pair><Pair><Question>[Q]1点体力值的步练师对3点体力值的法正打出一张杀，法正受到一点伤害后触发【恩怨】。步练师失去一点体力后死亡。此时步练师是否可以对法正发动【追忆】？
+</Question><Answer>[A]可以。步练师因体力流失而死亡，并非法正杀死。可以对法正发动【追忆】。此时法正回复一点体力并摸三张牌。法正因回复一点体力触发【恩怨】，但由于步练师已经阵亡，不能执行【恩怨】的第一项效果使步练师摸一张牌。
+ 
+</Answer></Pair><Pair><Question>[Q]神关羽发动【武魂】导致步练师死亡，步练师能否指定神关羽为追忆目标？
+</Question><Answer>[A]不能。步练师因神关羽的【武魂】而死亡，且神关羽也已经死亡。
+ 
+</Answer></Pair><Pair><Question>[Q]1点体力值的神周瑜弃牌阶段弃置第四张手牌后发动【琴音】令所有角色各失去1点体力，步练师死亡，此时步练师对神周瑜发动【追忆】，神周瑜回复一点体力并摸三张牌。此时神周瑜是否仍需继续弃置手牌到2张？
+</Question><Answer>[A]是的。需要弃置手牌。</Answer></Pair></FAQs></Hero>

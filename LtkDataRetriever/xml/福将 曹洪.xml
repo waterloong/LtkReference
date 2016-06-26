@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>曹洪</Name><Title>福将</Title><Id/><Pack>SP</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>魏</Faction><Abilities><Ability><AbilityName>援护</AbilityName><AbilityDescription>结束阶段开始时，你可以将一张装备牌置于一名角色的装备区里，根据此牌的类别执行相应效果：武器牌—你弃置该角色距离为1的一名角色的区域里的一张牌；</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+防具牌—该角色摸一张牌；
+坐骑牌—该角色回复1点体力。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]若曹洪在回合结束阶段开始时，手上有较多装备牌，是否可以多次发动【援护】
+</Question><Answer>[A]不可以，只能发动1次。
+
+</Answer></Pair><Pair><Question>[Q]曹洪的【援护】能够替换原先装备区有装备的角色吗？
+</Question><Answer>[A]不可以。因为是置于，非替换。例如：若孙尚香装备有寒冰剑，曹洪在回合结束阶段开始时，可以对孙尚香发动【援护】，但是他不能将武器牌置于孙尚香的装备区里。
+
+</Answer></Pair><Pair><Question>[Q]曹洪是否可以对自己发动【援护】
+</Question><Answer>[A]可以。但不能够替换原装备。
+
+</Answer></Pair><Pair><Question>[Q]曹洪是否可以将自己装备区的装备【援护】给其他角色？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]曹洪发动【援护】给一名角色时，曹洪是否可以选择不执行【援护】的后续效果？
+</Question><Answer>[A]不可以。必须强制执行。若被援护的角色不满足执行后续效果条件时，则不发生。
+例如：a. 曹洪【援护】给满体力值的孙尚香一张-1马，由于孙尚香是满血状态，不会再回复一点体力。b. 曹洪【援护】给孙尚香一张武器牌，若孙尚香周围的两人均装备+1马且孙尚香没有-1马。此时曹洪无法弃置孙尚香距离1内一名角色区域的一张牌。
+
+</Answer></Pair><Pair><Question>[Q]曹洪【援护】武器牌时，后续效果中的的区域是指哪些？
+</Question><Answer>[A]区域包括手牌区，装备区和判定区，也就是说【援护】能帮队友弃置掉兵粮寸断、乐不思蜀、闪电。注意：这里不能够弃置邓艾的田、钟会的权、周泰的不屈牌、神诸葛亮的七星牌，因为那些牌是移除游戏的牌，不属于任何角色。
+
+</Answer></Pair><Pair><Question>[Q]曹洪【援护】武器牌时，距离为1的角色包括被【援护】的角色自身吗？
+</Question><Answer>[A]不包括。因为自己与自己的距离始终为0。
+例如：若曹洪援护给已装备-1马的孙尚香一张武器牌，此时曹洪不能弃置孙尚香的装备牌，必须弃置与孙尚香距离为1的一名角色区域中的一张牌。
+
+</Answer></Pair><Pair><Question>[Q]曹洪【援护】武器牌给装备-1马的一名角色时，若该角色周围4个人都没有装备+1马，曹洪能够在这4名角色中其中1名角色弃置其区域的一张牌吗？
+</Question><Answer>[A]能。由于该角色与周围4个人的距离均为1，曹洪可以选择一名角色弃置其区域的一张牌
+
+</Answer></Pair><Pair><Question>[Q]曹洪【援护】武器牌给一名角色时，若该角色距离1的角色为徐庶，曹洪是否可以弃置徐庶的一张牌？
+</Question><Answer>[A]可以。【援护】发动的是技能的效果弃置，并不等于使用了一张【过河拆桥】。
+
+</Answer></Pair><Pair><Question>[Q]曹洪可以用自己装备区的装备，再次置于自己装备区来发动【援护】的效果吗？
+</Question><Answer>[A]不可以。在技能发动的时候，曹洪的装备区是有这件装备的，他自己不是技能的合法目标。</Answer></Pair></FAQs></Hero>

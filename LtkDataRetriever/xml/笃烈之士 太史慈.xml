@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>太史慈</Name><Title>笃烈之士</Title><Id>WU012</Id><Pack>火</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>天义</AbilityName><AbilityDescription>出牌阶段限一次，你可以与一名角色拼点。若你赢，直到回合结束，你能额外使用一张【杀】且使用【杀】无距离限制且使用【杀】选择目标的个数上限+1。若你没赢，你不能使用【杀】，直到回合结束。 </AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]拼点赢后，使用【杀】指定超过1个目标时，是否能发动武器技能？
+</Question><Answer>[A]可以。一些武器的发动情况如下：
+诸葛连弩：太史慈在装备【诸葛连弩】时所使用的【杀】均是属于武器技能，因此即便是【诸葛连弩】被换掉或失去，太史慈仍然可额外使用一张【杀】。获得技能后，本回合太史慈使用的每一张【杀】都可以额外指定一个目标。
+贯石斧：目标依次结算是否出【闪】，每有一个目标出【闪】，太史慈可立即选择是否发动贯石斧的技能。青龙偃月刀：原理同贯石斧。
+方天画戟：最后一张手牌【杀】触发方天画戟的效果时，指定3个目标后，可额外再指定一个目标，即是说，可以指定至多4个目标。
+
+</Answer></Pair><Pair><Question>[Q]拼点没赢后，是否可以在决斗中打出【杀】？
+</Question><Answer>[A]可以。拼点没赢只是不能使用，还可以打出。
+
+</Answer></Pair><Pair><Question>[Q]太史慈能否在出牌阶段已经使用过一张【杀】后，再发动天义？
+</Question><Answer>[A]可以。</Answer></Pair></FAQs></Hero>

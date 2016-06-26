@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>刘表</Name><Title>跨蹈汉南</Title><Id>YJ108</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>自守</AbilityName><AbilityDescription>摸牌阶段，若你已受伤，你可以额外摸X张牌（X为你已损失的体力值），然后跳过出牌阶段。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>宗室</AbilityName><AbilityDescription>锁定技，你的手牌上限+X（X为现存势力数）。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]刘表判定区里的【乐不思蜀】的判定结果不为红桃，须跳过其出牌阶段，在摸牌阶段其是否可以发动【自守】？ 
+</Question><Answer>[A]可以。跳过出牌阶段是发动【自守】的效果而非消耗，因此刘表依然可以发动【自守】摸牌后，跳过其出牌阶段。
+
+</Answer></Pair><Pair><Question>[Q]场上的势力数是怎么结算的？
+</Question><Answer>[A]（8人场）若场上有主公群雄武将刘表，吴国武将A、B、C，蜀国武将D、E、F。魏国武将G。
+在整个游戏过程中假设刘表未扣减体力值和体力上限。当第一轮游戏开始时，场上势力数为4。主公刘表的手牌上限为5+4=9
+若：
+a.       过了一轮后，场上武将A、D、阵亡， 此时场上势力数为4。刘表的手牌上限为5+4=9
+b.       过了一轮后，场上武将A、D、G阵亡，此时场上势力数为3。刘表的手牌上限为5+3=8
+c.       过了一轮后，上武将A、B、C、D、E、F阵亡，此时场上势力数为2。刘表的手牌上限为5+2=7</Answer></Pair></FAQs></Hero>

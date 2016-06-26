@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>荀攸</Name><Title>曹魏的谋主</Title><Id>YJ111</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>奇策</AbilityName><AbilityDescription>你可以将所有手牌当一张使用时机为出牌阶段空闲时间点的非延时类锦囊牌于此时机使用。每阶段限一次。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>智愚</AbilityName><AbilityDescription>每当你受到伤害后，你可以摸一张牌，然后展示所有手牌，若颜色均相同，来源弃置一张手牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]手牌数为0的荀攸是否可以发动【奇策】？ 
+</Question><Answer>[A]不可以。荀攸至少须有一张手牌才可以发动【奇策】。
+
+</Answer></Pair><Pair><Question>[Q]荀攸发动【奇策】的任一非延时类锦囊牌能否被无懈可击响应？
+</Question><Answer>[A]可以
+  
+</Answer></Pair><Pair><Question>[Q]荀攸能否发动【奇策】将所有手牌当铁锁连环？
+</Question><Answer>[A]可以。只能当铁锁连环的第一个方式使用，不能将之重铸。
+ 
+</Answer></Pair><Pair><Question>[Q]若荀攸使用了一张无中生有，被其他的无懈可击响应，此时，荀攸可以发动【奇策】将所有手牌当无懈可击使用吗?
+</Question><Answer>[A]不可以。【奇策】的发动时机是出牌阶段，而时机“出牌阶段”指的一般是出牌阶段的空闲时间点，也就是没有其他事件在结算中。而无懈可击是在锦囊结算过程中使用，因而，出牌阶段，不存在一个空闲时机点可以使用“无懈可击”，故荀攸不能把所有手牌当作无懈可击使用。
+
+</Answer></Pair><Pair><Question>[Q]孟获在场时，郭嘉使用了一张南蛮入侵，结算到夏侯惇时，夏侯惇受到一点伤害，发动【刚烈】，判定不为红桃，此时孟获触发祸首第二项效果，之后受到一点伤害后阵亡。南蛮入侵继续结算至荀攸，荀攸受到一点伤害后可以发动【智愚】吗？
+</Question><Answer>[A]可以。由于孟获阵亡，所以此时无伤害来源。荀攸发动【智愚】时，只需摸一张牌，然后展示所有手牌。
+
+</Answer></Pair><Pair><Question>[Q]荀攸发动【奇策】使用的【南蛮入侵】在结算完毕置入弃牌堆时，祝融是否会触发【巨象】？ 
+</Question><Answer>[A]其他角色使用的【南蛮入侵】在结算过程中只有因结算中止或生效后结算完毕置入弃牌堆时，若此时牌面信息与其使用的【南蛮入侵】完全一致，祝融才会触发【巨象】。因此除非荀攸发动【奇策】将唯一的一张手牌【南蛮入侵】当【南蛮入侵】使用，否则祝融不会触发【巨象】。</Answer></Pair></FAQs></Hero>

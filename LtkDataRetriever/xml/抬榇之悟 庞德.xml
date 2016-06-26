@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>庞德</Name><Title>抬榇之悟</Title><Id>SP006</Id><Pack>SP</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>魏</Faction><Abilities><Ability><AbilityName>马术</AbilityName><AbilityDescription>锁定技，你与其他角色的距离-1。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>猛进</AbilityName><AbilityDescription>每当你使用的【杀】被目标角色使用的【闪】抵消时，你可以弃置其一张牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]庞德杀张角，张角出【闪】后，谁先发动技能？
+</Question><Answer>[A]张角先。
+
+</Answer></Pair><Pair><Question>[Q]庞德装备【青龙偃月刀】或【贯石斧】，目标闪避后，如何结算？
+</Question><Answer>[A]庞德先选择是否发动猛进，然后再选择是否发动武器技能。</Answer></Pair></FAQs></Hero>

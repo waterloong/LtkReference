@@ -1,0 +1,148 @@
+import java.util.*;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import javax.swing.*;
+import javax.swing.tree.*;
+
+/**
+ * A simple class to read a .cfg file and print the left-canonical
+ * derivation without leading or trailing spaces.
+ *
+ * @version 071024.0
+ */
+public class Galaxy {
+  private static Scanner in = new Scanner(System.in);
+  private static DefaultMutableTreeNode root = new DefaultMutableTreeNode();
+  private static StringBuilder sb;
+  private static String[] terminals = new String[]{
+      "BOF",
+      "EOF",
+      "id",
+      "-",
+      "(",
+      ")"
+  };
+  private static String[] nonterminals = new String[]{
+      //"S",
+      "expr",
+      "term"
+  };
+  public static void main(String[] args) {
+    skipGrammar(in);
+    printDerivation(in);
+  }
+
+  /**
+   * Skip the grammar part of the input.
+   *
+   * @param in the scanner for reading input
+   */
+  private static void skipGrammar(Scanner in) {
+    assert(in.hasNextInt());
+
+    // read the number of terminals and move to the next line
+    int numTerm = in.nextInt();
+    in.nextLine();
+
+    // skip the lines containing the terminals
+    for (int i = 0; i < numTerm; i++) {
+      in.nextLine();
+    }
+
+    // read the number of non-terminals and move to the next line
+    int numNonTerm = in.nextInt();
+    in.nextLine();
+
+    // skip the lines containing the non-terminals
+    for (int i = 0; i < numNonTerm; i++) {
+      in.nextLine();
+    }
+
+    // skip the line containing the start symbol
+    in.nextLine();
+
+    // read the number of rules and move to the next line
+    int numRules = in.nextInt();
+    in.nextLine();
+
+    // skip the lines containing the production rules
+    for (int i = 0; i < numRules; i++) {
+      in.nextLine();
+    }
+  }
+
+  /**
+   * Prints the derivation with whitespace trimmed.
+   *
+   * @param in the scanner for reading input
+   */
+  private static void printDerivation(Scanner in) {
+          loadTree(root);
+          sb = new StringBuilder();
+          expandTree(root);
+          String expr = sb.toString().trim().replace("id", "42");
+          expr = expr.substring(3, expr.length() - 3);
+          System.out.println(eval(expr));
+//          ScriptEngineManager mgr = new ScriptEngineManager();
+//          ScriptEngine engine = mgr.getEngineByName("JavaScript");
+//          engine.eval("print(" + expr + ")");
+  //    JTree tree = new JTree(root);
+  //    JFrame frame = new JFrame("tree visualization");
+  //    frame.setVisible(true);
+  //    frame.setSize(1024, 768);
+  //    frame.getContentPane().add(tree);
+  //    frame.getContentPane().add(tree);
+
+    
+  }
+  
+  private static void loadTree(DefaultMutableTreeNode node){
+    if(!in.hasNextLine()) return;
+    if(node.getDepth() == 0){
+        StringTokenizer st = new StringTokenizer(in.nextLine());
+        st.nextToken();
+        while(st.hasMoreTokens()){
+            node.add(new DefaultMutableTreeNode(st.nextToken()));
+        }
+    }
+    for(int i = 0; i < node.getChildCount(); i ++){
+        DefaultMutableTreeNode child = (DefaultMutableTreeNode)node.getChildAt(i);
+        if(Arrays.binarySearch(nonterminals, child.getUserObject()) > -1 ){
+            StringTokenizer st = new StringTokenizer(in.nextLine());
+            st.nextToken();
+            while(st.hasMoreTokens()){
+                child.add(new DefaultMutableTreeNode(st.nextToken()));
+            }
+            loadTree(child);
+        }
+    }
+  }
+  
+  private static void expandTree(DefaultMutableTreeNode node){
+      for(int i = 0; i < node.getChildCount(); i ++){
+          DefaultMutableTreeNode child = (DefaultMutableTreeNode) node.getChildAt(i);
+          if(child.isLeaf()){
+              sb.append(child.getUserObject() + " ");
+          }else{
+              expandTree(child);
+          }
+      }
+  }
+  
+  private static int eval(String str){
+	  int lparen  = str.indexOf('(');;
+	  while(lparen > -1){
+		  int rparen = str.indexOf(')', lparen);
+		  eval("" + str.substring(0, lparen) + eval(str.substring(lparen + 1, rparen) + str.substring(rparen + 1)));
+		  lparen = str.indexOf('(');
+	  }
+	  StringTokenizer st = new StringTokenizer(str);
+	  int diff = Integer.valueOf(st.nextToken());
+	  while(st.hasMoreTokens()){
+		  st.nextToken();
+		  diff -= Integer.valueOf(st.nextToken());
+	  }
+	  return diff;
+  }
+      
+}

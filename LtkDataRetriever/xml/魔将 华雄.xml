@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>华雄</Name><Title>魔将</Title><Id>YJ106</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>恃勇</AbilityName><AbilityDescription>锁定技，每当你受到一次红色的【杀】或因【酒】生效而伤害值基数+1的【杀】造成的伤害后，你减1点体力上限。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]【酒】【杀】如何理解？
+</Question><Answer>[A]因【酒】生效而伤害+1的【杀】，称为【酒】【杀】
+
+</Answer></Pair><Pair><Question>[Q]华雄受到连环传导的红色的【杀】或因【酒】生效而伤害+1的【杀】对其造成的伤害后，是否会触发【恃勇】？
+</Question><Answer>[A]会。
+
+</Answer></Pair><Pair><Question>[Q]华雄受到因【酒】生效而伤害+1的红色【杀】的伤害后，减几点体力上限？
+</Question><Answer>[A]1点。这是一次伤害。</Answer></Pair></FAQs></Hero>

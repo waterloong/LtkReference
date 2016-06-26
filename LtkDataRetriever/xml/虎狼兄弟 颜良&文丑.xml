@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>颜良&amp;文丑</Name><Title>虎狼兄弟</Title><Id>QUN005</Id><Pack>火</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>群</Faction><Abilities><Ability><AbilityName>双雄</AbilityName><AbilityDescription>摸牌阶段开始时，你可以放弃摸牌，进行判定，当判定牌生效后，你获得此牌，然后你于此回合内可以将一张与此牌颜色不同的手牌当【决斗】使用。 </AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]如果判定为红，手上有3张黑牌，是否可以当3个决斗出？
+</Question><Answer>[A]是的。
+ 
+</Answer></Pair><Pair><Question>[Q]发动双雄后，颜良&amp;文丑是否能在出牌阶段多次使用决斗？
+</Question><Answer>[A]可以。
+ 
+</Answer></Pair><Pair><Question>[Q]此决斗能否被【无懈可击】响应？
+</Question><Answer>[A]可以。</Answer></Pair></FAQs></Hero>

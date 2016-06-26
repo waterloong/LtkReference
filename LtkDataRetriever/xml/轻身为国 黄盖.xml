@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>黄盖</Name><Title>轻身为国</Title><Id>WU004</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>苦肉</AbilityName><AbilityDescription>出牌阶段，你可以失去一点体力，然后摸两张牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+★当你失去最后一点体力时，优先结算濒死事件，当你被救活后，你才可以摸两张牌。换言之，你可以用此技能自杀。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]黄盖只有最后1点体力值时，是否可以发动【苦肉】？
+</Question><Answer>[A]可以。此时，首先结算濒死状态，如果有人对黄盖使用【桃】，则黄盖再摸牌。
+
+例如：黄盖只有最后1点体力值时，发动【苦肉】，进入濒死状态，此时华佗发动【急救】对黄盖使用1张【桃】，黄盖回复到1点体力，摸两张牌，并且可以继续发动【苦肉】。
+
+</Answer></Pair><Pair><Question>[Q]黄盖是否可以利用不断的【苦肉】来自杀？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]黄盖能否发动【苦肉】进入濒死状态，然后对自己使用【酒】自救？
+</Question><Answer>[A]可以。</Answer></Pair></FAQs></Hero>

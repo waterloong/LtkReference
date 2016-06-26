@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>典韦</Name><Title>古之恶来</Title><Id>WEI012</Id><Pack>火</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>魏</Faction><Abilities><Ability><AbilityName>强袭</AbilityName><AbilityDescription>出牌阶段限一次，你可以失去1点体力或弃置一张武器牌，并选择你攻击范围内的一名其他角色，对其造成1点伤害。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+★若同时用到当前装备的武器攻击范围时，不能弃置这张武器牌。
+★若仅剩1点体力时发动此技能，则不论是否被挽救，目标角色都会受到1点伤害（除非典韦死亡后触发了某种身份的胜利条件)。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]武器牌是否包括手牌和已经装备的牌？
+</Question><Answer>[A]全包括。
+
+</Answer></Pair><Pair><Question>[Q]强袭技能导致的伤害是否无属性？
+</Question><Answer>[A]无属性。
+
+</Answer></Pair><Pair><Question>[Q]典韦只剩1点体力时，是否可以发动技能扣减体力？
+</Question><Answer>[A]可以，只剩1点体力时扣减体力发动强袭，则典韦先进入濒死状态，然后无论是否被救回，强袭的目标仍要受到1点伤害（除非触发胜利条件）。
+
+</Answer></Pair><Pair><Question>[Q]典韦是否能弃掉已装备的武器发动强袭？
+</Question><Answer>[A]可以，但如果强袭的目标在你弃掉武器后超出了你的攻击范围，则你不能弃掉已装备的武器发动强袭。</Answer></Pair></FAQs></Hero>

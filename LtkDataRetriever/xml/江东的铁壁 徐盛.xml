@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>徐盛</Name><Title>江东的铁壁</Title><Id>YJ008</Id><Pack>一將成名2011</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>破军</AbilityName><AbilityDescription>每当你使用【杀】对目标角色造成伤害后，你可以令该角色摸X张牌（X为其当前的体力值且至多为5），然后该角色将其武将牌翻面。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]徐盛使用属性【杀】对一名角色造成伤害触发连环后，是否可以对其他受到连环伤害的角色发动【破军】？
+</Question><Answer>[A]不可以。其他处于连环状态的角色并不是徐盛使用的【杀】的目标。
+
+【为了让大家有更好的游戏体验，OL上存在少量技能或结算相对于三国杀规则集会略有调整。】
+【由于Q&amp;A部分可能存在与现行的官方规则集不一致，请大家以官方规则集（即用语集、通则、修复后的卡牌牌面）为准。】</Answer></Pair></FAQs></Hero>

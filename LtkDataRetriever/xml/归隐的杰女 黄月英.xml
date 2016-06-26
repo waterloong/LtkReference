@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>黄月英</Name><Title>归隐的杰女</Title><Id>SHU007</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>蜀</Faction><Abilities><Ability><AbilityName>集智</AbilityName><AbilityDescription>当你使用一张非延时类锦囊时，你可以摸一张牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>奇才</AbilityName><AbilityDescription>锁定技，你使用任何锦囊无距离限制。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]黄月英发动【集智】时，摸到的牌是否可以立即使用？
+</Question><Answer>[A]视为归入手牌，可以立即使用。
+
+</Answer></Pair><Pair><Question>[Q]黄月英发动【集智】时，先摸1张牌还是在锦囊结算后再摸一张牌？
+</Question><Answer>[A]使用锦囊后，可以在锦囊结算前马上摸1张牌。如果进入结算则无法再摸1张牌。</Answer></Pair></FAQs></Hero>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>神吕布</Name><Title>最强神话</Title><Id>SP008</Id><Pack>SP</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>true</IsDivine><Gender>男</Gender><Faction>神</Faction><Abilities><Ability><AbilityName>马术</AbilityName><AbilityDescription>锁定技，当你计算与其他角色的距离时，始终-1。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>无双</AbilityName><AbilityDescription>锁定技，你使用【杀】时，目标角色需连续使用两张【闪】才能抵消；与你进行【决斗】的角色每次需连续打出两张【杀】。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+武将编号：SP 008（2-2）
+武将称号：暴怒的战神
+Online战功：暂无
+武将技：
+马术——锁定技，当你计算与其他角色的距离时，始终-1。
+无双——锁定技，你使用【杀】时，目标角色需连续使用两张【闪】才能抵消；与你进行【决斗】的角色每次需连续打出两张【杀】。
+修罗——回合开始阶段，你可以弃一张手牌来弃置你判断区里的一张延时类锦囊（必须花色相同）。
+神威——锁定技，摸牌阶段，你额外摸两张牌，你的手牌上限+2。
+神戟——没装备武器时，你使用的杀可指定至多3名角色为目标。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]当神吕布的体力降至4点（或更低）进入第二阶段时，是否共用第一阶段状态下的武将技？
+</Question><Answer>[A]不共用，吕布进入第二阶段后，只拥有第二阶段的技能。
+ 
+</Answer></Pair><Pair><Question>[Q]当神吕布进入第二阶段时，是否保有手牌、装备区及判定区里的牌？
+</Question><Answer>[A]此时，神吕布依然保留他当前拥有的手牌、装备，弃置他判定区里的牌。
+ 
+</Answer></Pair><Pair><Question>[Q]当神吕布进入第二阶段时，武将处于横置状态，是否保留横置的效果？
+</Question><Answer>[A]如果神吕布处于横置进入第二阶段，则重置之。
+ 
+</Answer></Pair><Pair><Question>[Q]当神吕布进入第二阶段时，是否立即轮到他行动？
+</Question><Answer>[A]当前玩家的回合即时终止（所有结算都终止），立即轮到神吕布行动。
+ 
+</Answer></Pair><Pair><Question>[Q]第二阶段的神吕布可否使用【桃】、【酒】或借助其他技能回复体力，返回第一阶段？
+</Question><Answer>[A]不可以，神吕布进入第二阶段后体力上限已经变为4，不能再回复到更多体力。
+ 
+</Answer></Pair><Pair><Question>[Q]回合开始阶段，可否多次发动“修罗”技能弃置延时类锦囊？
+</Question><Answer>[A]不可以，每个回合只能发动1次“修罗”弃置1张延时类锦囊。
+ 
+</Answer></Pair><Pair><Question>[Q]发动技能“神戟”指定至多3个目标时，对于所出的【杀】是否是手牌的最后一张有无要求？
+</Question><Answer>[A]无要求，仅要求神吕布的装备区没有武器牌。</Answer></Pair></FAQs></Hero>

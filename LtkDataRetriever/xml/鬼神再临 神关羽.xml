@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>神关羽</Name><Title>鬼神再临</Title><Id>LE001</Id><Pack>風</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>true</IsDivine><Gender>男</Gender><Faction>神</Faction><Abilities><Ability><AbilityName>武神</AbilityName><AbilityDescription>锁定技，你的红桃手牌视为【杀】；锁定技，你使用红桃【杀】无距离限制。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>武魂</AbilityName><AbilityDescription>锁定技，每当你受到1点伤害后，你令来源获得1枚“梦魇”标记；锁定技，当你死亡时，你令拥有最多该标记的一名其他角色进行判定，若结果不为【桃】或【桃园结义】，其死亡。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]神关羽死亡时，如果场上有两个或两个以上角色拥有最多的梦魇标记，如何结算？
+</Question><Answer>[A]由神关羽指定其中一个角色进行【武魂】的判定。
+
+</Answer></Pair><Pair><Question>[Q]被【武魂】技能杀死的角色，能否用【桃】救？
+</Question><Answer>[A]立即死亡，不能救。
+
+</Answer></Pair><Pair><Question>[Q]杀死反贼神关羽时，是先判定【武魂】还是先摸3张牌？
+</Question><Answer>[A]先判定【武魂】。
+
+</Answer></Pair><Pair><Question>[Q]如果最后只剩下主公和反贼神关羽，主公杀死神关羽时如何结算？
+</Question><Answer>[A]一旦满足游戏结束条件的局面出现，游戏立即结束，所有结算均停止。这种局面下主公获胜。
+
+</Answer></Pair><Pair><Question>[Q]如果持有最多梦魇标记的角色比神关羽早死去，那么神关羽死亡时如何结算？
+</Question><Answer>[A]剩下活着的角色里拥有最多梦魇标记的人成为【武魂】的对象。
+
+</Answer></Pair><Pair><Question>[Q]如果神关羽死亡时，场上没有任何一个角色拥有梦魇标记，能否发动【武魂】？
+</Question><Answer>[A]不能发动。
+
+</Answer></Pair><Pair><Question>[Q]神关羽算蜀势力角色吗？
+</Question><Answer>[A]神武将在游戏开始亮出武将前，选择一种势力。</Answer></Pair></FAQs></Hero>

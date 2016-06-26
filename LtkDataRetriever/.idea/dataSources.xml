@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1526024358">
+    <data-source source="LOCAL" name="SQLite - ltk.db" uuid="13000768-efaa-49c6-8410-6435aaedb592">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/ltk.db</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/../sqlite-jdbc-3.7.15-M1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

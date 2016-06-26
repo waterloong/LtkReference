@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>神吕蒙</Name><Title>圣光之国士</Title><Id>LE002</Id><Pack>風</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>true</IsDivine><Gender>男</Gender><Faction>神</Faction><Abilities><Ability><AbilityName>涉猎</AbilityName><AbilityDescription>摸牌阶段开始时，你可以放弃摸牌，从牌堆顶亮出五张牌，然后获得其中不同花色的牌各一张，将其余的牌置入弃牌堆。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>攻心</AbilityName><AbilityDescription>出牌阶段限一次，你可以观看一名其他角色的手牌，然后你可以展示其中一张红桃牌，选择一项：1.弃置此牌；2.将此牌置于牌堆顶。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]神吕蒙能否对自己发动【攻心】？
+</Question><Answer>[A]不可以。
+
+</Answer></Pair><Pair><Question>[Q]神吕蒙属于吴势力角色吗？
+</Question><Answer>[A]神武将在游戏开始亮出武将前，选择一种势力。</Answer></Pair></FAQs></Hero>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>徐晃</Name><Title>周亚夫之风</Title><Id>WEI010</Id><Pack>林</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>魏</Faction><Abilities><Ability><AbilityName>断粮</AbilityName><AbilityDescription>你可以将一张黑色基本牌或黑色装备牌当【兵粮寸断】使用；锁定技，你能对距离为2的角色使用【兵粮寸断】。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]徐晃在一回合内能否发动多次断粮？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]徐晃发动断粮使用的【兵粮寸断】能否被【无懈可击】抵消？
+</Question><Answer>[A]可以。在判定之前使用。
+
+</Answer></Pair><Pair><Question>[Q]徐晃所有装备牌都可以当【兵粮寸断】使用么？
+</Question><Answer>[A]不能。只能用黑色的装备牌。</Answer></Pair></FAQs></Hero>

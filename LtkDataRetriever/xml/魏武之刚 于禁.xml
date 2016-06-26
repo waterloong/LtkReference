@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>于禁</Name><Title>魏武之刚</Title><Id>YJ010</Id><Pack>一將成名2011</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>毅重</AbilityName><AbilityDescription>锁定技，若你的装备区里没有防具牌，黑色的【杀】对你无效。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]装备【青釭剑】的角色对没有装备防具的于禁使用黑色的【杀】时，【毅重】是否会触发？
+</Question><Answer>[A]会。【毅重】的作用和【仁王盾】一样，但是与诸葛亮的【八阵】不同，于禁没装备防具时并非视为其装备着【仁王盾】，不会触发【青釭剑】。
+
+</Answer></Pair><Pair><Question>[Q]装备【青釭剑】的角色对装备【八卦阵】的于禁使用黑色的【杀】时，【毅重】是否会触发？
+</Question><Answer>[A]不会，于禁需要使用【闪】进行响应。触发【青釭剑】后该角色使用【杀】时【八卦阵】不可以发动，但于禁依然装备着【八卦阵】。</Answer></Pair></FAQs></Hero>

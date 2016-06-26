@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools" android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent" tools:context=".view.HeroDetailActivity">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView" android:layout_alignParentTop="true" android:layout_alignParentLeft="true">
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+            <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent">
+                <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/heroDetailImageView" android:minWidth="210px" android:minHeight="295px"
+                        android:maxWidth="210px" android:maxHeight="295px"/>
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/heroDetailIntroTextView"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_toRightOf="@+id/heroDetailImageView" android:layout_alignParentTop="true"
+                        android:layout_alignTop="@+id/heroDetailImageView" android:layout_alignBottom="@+id/heroDetailImageView"/>
+            </RelativeLayout>
+            <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" android:layout_weight="8" android:id="@+id/healthBar"
+                    android:orientation="horizontal">
+            </LinearLayout>
+            <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/heroDetailContentTextView"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

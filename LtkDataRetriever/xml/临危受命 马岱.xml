@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>马岱</Name><Title>临危受命</Title><Id>YJ109</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>马术</AbilityName><AbilityDescription>锁定技，你与其他角色的距离-1。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>潜袭</AbilityName><AbilityDescription>每当你使用【杀】对距离为1的目标角色造成伤害时，你可以进行判定，若结果不为红桃，你防止此伤害，然后令其减1点体力上限。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]马岱对曹操发动【潜袭】，判定牌为红色，并对曹操使用一张杀，曹操是否可以发动【护驾】？
+</Question><Answer>[A]可以。受到【潜袭】影响的是曹操，且魏国武将响应打出的闪并不是由曹操手牌打出的。
+
+</Answer></Pair><Pair><Question>[Q]马岱对装备八卦阵的郭嘉发动【潜袭】，判定牌为红色，再对郭嘉使用一张杀，郭嘉能否发动八卦阵？
+</Question><Answer>[A]可以。若八卦阵判定为黑色，郭嘉可以发动【天妒】获得该判定牌，但由于受到【潜袭】的影响，则不能使用闪。若八卦阵判定为红色，郭嘉可以发动【天妒】获得该判定牌，此时八卦阵的效果视为郭嘉使用了一张非手牌的闪。
+Tips：
+1. 场上只有马岱和张角时，马岱对张角发动【潜袭】，判定为黑桃5，张角发动【鬼道】将其替换为梅花5.之后马岱对张角使用一张杀，张角使用一张闪，并对马岱发动【雷击】，判定为方片闪。由于受到马岱潜袭效果的影响，张角不能发动【鬼道】用手牌中的黑色牌替换该判定牌。
+2. 场上只有马岱和华佗时，马岱对华佗发动【潜袭】，判定为红色。之后对华佗使用了一张杀，华佗没闪后阵亡。华佗无法使用【急救】，只能使用手牌的酒来是自己脱离濒死状态。
+ 
+</Answer></Pair><Pair><Question>[Q]马岱对1张手牌为黑桃2的小乔发动【潜袭】，判定为黑色，之后对小乔使用了一张决斗，小乔是否可以发动【天香】？
+</Question><Answer>[A]可以。小乔由于【红颜】效果，此黑桃牌视为红桃牌，可以发动【天香】。
+ 
+</Answer></Pair><Pair><Question>[Q]马岱对手牌为一张红桃闪和一张黑桃杀的 于吉 发动【潜袭】，判定为红色，于吉是否可以发动【蛊惑】？
+</Question><Answer>[A]于吉只能发动【蛊惑】将手牌的“黑桃杀”蛊惑“闪”。
+ 
+</Answer></Pair><Pair><Question>[Q]马岱对诸葛恪发动【潜袭】，判定为黑色，之后使用了一张南蛮入侵，结算到诸葛恪时，诸葛恪发动【傲才】，牌顶堆有一张黑色杀，诸葛恪能否打出该杀？
+ 
+</Question><Answer>[A]可以。这张黑色杀是牌顶堆的牌，不是诸葛恪的手牌，所以诸葛恪可以打出</Answer></Pair></FAQs></Hero>

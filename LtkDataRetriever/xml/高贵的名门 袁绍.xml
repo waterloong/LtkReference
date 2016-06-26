@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>袁绍</Name><Title>高贵的名门</Title><Id>QUN004</Id><Pack>火</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>true</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>群</Faction><Abilities><Ability><AbilityName>乱击</AbilityName><AbilityDescription>你可以将两张花色相同的手牌当【万箭齐发】使用。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>血裔</AbilityName><AbilityDescription>主公技，锁定技，你的手牌上限+2X（X为其他群势力角色的数量）。</AbilityDescription><IsMonarchAbility>true</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q]袁绍能否在一回合内多次使用乱击？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]曹操受到两张牌当做【万箭齐发】的伤害后，是否可以拿牌？
+</Question><Answer>[A]可以，拿走袁绍当【万箭齐发】使用的两张牌。
+
+</Answer></Pair><Pair><Question>[Q]乱击是否可以被【无懈可击】抵消？
+</Question><Answer>[A]同【万箭齐发】，可以抵消掉其中一名角色的效果。
+
+</Answer></Pair><Pair><Question>[Q]神武将如果在场怎么算？
+</Question><Answer>[A]神武将在本局游戏开始前可以选择自己的国籍。</Answer></Pair></FAQs></Hero>

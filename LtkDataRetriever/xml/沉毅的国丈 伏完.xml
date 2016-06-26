@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>伏完</Name><Title>沉毅的国丈</Title><Id/><Pack>SP</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>群</Faction><Abilities><Ability><AbilityName>谋溃</AbilityName><AbilityDescription>当你使用【杀】指定一名角色为目标后，你可以选择一项：摸一张牌，或弃置其一张牌。若如此做，此【杀】被【闪】抵消时，该角色弃置你的一张牌。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities/><FAQs><Pair><Question>[Q] A伏完装备【青龙偃月刀】，使用【杀】指定B为目标并发动“谋溃”，若B使用【闪】，如何结算？
+</Question><Answer>[A] B弃置A的一张牌，若弃置【青龙偃月刀】，结算结束；若弃置的牌不是【青龙偃月刀】，A可以发动【青龙偃月刀】的技能继续对B使用【杀】。【贯石斧】同理。
+ 
+</Answer></Pair><Pair><Question>[Q] A伏完装备【方天画戟】，使用最后一张手牌【杀】指定B、C、D为目标，如何结算？
+</Question><Answer>[A] A先分别决定是否对B、C、D发动“谋溃”摸一张牌或弃置目标角色的一张牌，然后此【杀】依次对B、C、D结算。每当一名角色使用【闪】响应此【杀】时，该角色弃置A的一张牌。
+
+</Answer></Pair><Pair><Question>[Q]A伏完对使用【杀】指定B张角为目标并发动“谋溃”，若B使用【闪】，如何结算？
+</Question><Answer>[A]B张角决定是否发动“雷击”，然后（在雷击结算完毕后）B弃置A的一张牌。</Answer></Pair></FAQs></Hero>

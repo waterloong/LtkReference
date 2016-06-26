@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">三国杀百科</string>
+    <string name="hero">武将</string>
+    <string name="playing_cards">游戏牌</string>
+    <string name="deck">牌堆</string>
+    <string name="general_principles">通则释疑</string>
+    <string name="teminologies">用语集</string>
+
+    <string name="by_package">按卡牌包查看</string>
+    <string name="by_faction">按势力查看</string>
+    <string name = "by_gender">按性別查看</string>
+    <string name="by_category">按种类查看</string>
+    <string name="by_rank">按点数查看</string>
+    <string name="by_suit">按花色查看</string>
+
+    <string name="total">总数：</string>
+
+    <string name="faction_wei">魏国</string>
+    <string name="faction_shu">蜀国</string>
+    <string name="faction_wu">吴国</string>
+    <string name="faction_neutral">群雄</string>
+    <string name="faction_divine">神</string>
+
+    <string name="package_standard">标准版</string>
+    <string name="package_military">神话再临·军争</string>
+    <string name="package_ex">EX</string>
+    <string name="package_wind">神话再临·风</string>
+    <string name="package_forest">神话再临·林</string>
+    <string name="package_fire">神话再临·火</string>
+    <string name="package_mountain">神话再临·山</string>
+    <string name="package_jiang2011">一将成名2011</string>
+    <string name="package_jiang2012">一将成名2012</string>
+    <string name="package_jiang2013">一将成名2013</string>
+    <string name="package_sp">SP</string>
+    <string name="package_star_sp">桌游志☆SP</string>
+
+    <string name="gender_male">男</string>
+    <string name="gender_female">女</string>
+
+    <string name="prefix_id">武将编号：</string>
+    <string name="prefix_title">武将称号：</string>
+    <string name="prefix_name">武将姓名：</string>
+    <string name="prefix_faction">所属势力：</string>
+    <string name="prefix_package">卡牌包：</string>
+    <string name="prefix_gender">性别：</string>
+
+    <string name="header_rank_suit">花色点数</string>
+    <string name="header_type">类别</string>
+    <string name="header_package">卡牌包</string>
+    <string name="header_name">名称</string>
+
+    <color name="light_blue">#00bfff</color>
+    <color name="gold">#ffd700</color>
+    <color name="male">#0000ff</color>
+    <color name="female">#ffc0cb</color>
+    
+</resources>

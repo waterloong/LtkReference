@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>吕蒙</Name><Title>白衣渡江</Title><Id>WU003</Id><Pack>標準</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>吳</Faction><Abilities><Ability><AbilityName>克己</AbilityName><AbilityDescription>若你于出牌阶段未使用或打出过【杀】，你可以跳过此回合的弃牌阶段。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+★换言之，此回合你的手牌无上限。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]吕蒙在出牌阶段对其他角色使用【决斗】，并打出了1张【杀】，还是否可以发动【克己】？
+</Question><Answer>[A]不可以，如果使用【决斗】后自己没有打出【杀】则可以发动【克己】。
+
+</Answer></Pair><Pair><Question>[Q]如果吕蒙摸光了整幅牌。此时，游戏如何进行？
+</Question><Answer>[A]游戏直接结束，没有胜利者。
+
+</Answer></Pair><Pair><Question>[Q]吕蒙在结算火攻时，弃置了一张【杀】，能否发动【克己】？
+</Question><Answer>[A]可以。</Answer></Pair></FAQs></Hero>

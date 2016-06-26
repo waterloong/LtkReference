@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>钟会</Name><Title>桀骜的野心家</Title><Id>YJ012</Id><Pack>一將成名2012</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction/><Abilities><Ability><AbilityName>权计</AbilityName><AbilityDescription>每当你受到1点伤害后，你可以摸一张牌，然后将一张手牌置于你的武将牌上，称为“权”；锁定技，你的手牌上限+X（X为“权”的数量）。 </AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>自立</AbilityName><AbilityDescription>觉醒技，准备阶段开始时，若 “权”的张数不小于3，你减1点体力上限，选择一项：1.回复1点体力；2.摸两张牌。然后你获得“排异”（出牌阶段限一次，你可以将一张“权”置入弃牌堆并选择一名角色，令其摸两张牌，然后若其手牌比你多，你对其造成1点伤害）。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>true</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+FAQ：</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]钟会可以对自己发动【排异】吗？
+</Question><Answer>[A]可以。但自己的手牌数不可能大于自己，所以不会受到伤害。
+</Answer></Pair><Pair><Question>[Q]对一名角色使用【排异】是先摸牌还是先造成伤害
+</Question><Answer>[A]先摸牌，然后根据摸牌者手牌数与钟会手牌数的比较决定是否造成伤害。
+</Answer></Pair><Pair><Question>[Q]钟会受到一次超过1点的伤害时，可以发动几次【权计】？
+</Question><Answer>[A]受到几点伤害，就可以发动几次权计。
+</Answer></Pair><Pair><Question>[Q]祝融使用【杀】对钟会造成伤害，先发动烈刃还是先发动权计？
+</Question><Answer>[A]先由祝融选择是否发动烈刃，后由钟会选择是否发动权计。
+</Answer></Pair><Pair><Question>[Q]未受伤的钟会触发【自立】时，是否可以选择执行回复1点体力的效果？
+</Question><Answer>[A]不可以，必须执行摸两张牌的效果。
+</Answer></Pair><Pair><Question>[Q]钟会对A发动【排异】，若此时A的手牌数与钟会相同，钟会可以对其造成1点伤害吗？
+</Question><Answer>[A]不可以。A的手牌数大于钟会的手牌数才能造成一点伤害。
+</Answer></Pair><Pair><Question>[Q]钟会对小乔发动【排异】，若此时小乔的手牌数大于钟会的手牌数，此时小乔可以发动天香转移伤害吗？
+</Question><Answer>[A]可以。
+</Answer></Pair><Pair><Question>[Q]钟会对已处于大雾状态的神诸葛亮发动【排异】，若此时神诸葛亮的手牌数大于钟会的手牌数，神诸葛是否会受到1点伤害？
+</Question><Answer>[A]不会。因为神诸葛亮大雾效果发动的时机为伤害结算开始时，优先于排异造成伤害的时机。
+</Answer></Pair><Pair><Question>[Q]钟会杀死蔡文姬，蔡文姬触发【断肠】，钟会失去当前的所有技能，钟会的权如何处理？
+</Question><Answer>[A]立即进入弃牌堆。
+</Answer></Pair><Pair><Question>[Q]觉醒的钟会发动【排异】将一张梅花牌的“权”置入弃牌堆，令一名角色摸两张牌，此时曹植是否可以发动【落英】？
+</Question><Answer>[A]不可以。权是移出游戏的牌，不属于任何角色。</Answer></Pair></FAQs></Hero>

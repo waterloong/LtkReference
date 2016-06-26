@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="D:\Google Drive\workspace\sqlite-jdbc-3.7.15-M1.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/../sqlite-jdbc-3.7.15-M1.jar!/"/>
+	</lib>
+</component>

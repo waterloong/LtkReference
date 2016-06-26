@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>荀彧</Name><Title>王佐之才</Title><Id>WEI013</Id><Pack>火</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>魏</Faction><Abilities><Ability><AbilityName>驱虎</AbilityName><AbilityDescription>出牌阶段限一次，你可以与一名当前的体力值大于你的角色拼点。若你赢，其对其攻击范围内你选择的另一名角色造成1点伤害。若你没赢，其对你造成1点伤害。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>节命</AbilityName><AbilityDescription>每当你受到1点伤害后，你可以令一名角色将手牌补至X张（X为该角色的体力上限且至多为5）。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+★若荀彧发动“节命”时，指定的目标角色手牌数多于或等于其体力上限，则不补牌。
+★当你一次受到1点以上的伤害时，可依次令不同的目标角色补牌。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]节命可对自己使用对吗？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]驱虎导致的伤害是否无属性？
+</Question><Answer>[A]无属性。
+
+</Answer></Pair><Pair><Question>[Q]拼点赢后，能否放弃让目标对其他人造成伤害？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]拼点赢后，能否让目标对荀彧自己造成1点伤害？
+</Question><Answer>[A]可以。只要荀彧在目标的攻击范围内。
+
+</Answer></Pair><Pair><Question>[Q]荀彧一次受到超过1点的伤害时，能否另不同的目标补手牌？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]荀彧濒死时能否发动节命？
+</Question><Answer>[A]不能，濒死时应先求桃，被救回后才可发动节命。
+
+</Answer></Pair><Pair><Question>[Q]荀彧能否对攻击范围内没有角色的目标发动驱虎（目标没有装备，其左右两边的角色分别各装备一匹+1马）？
+</Question><Answer>[A]可以，然后荀彧若拼点赢，则没有事情发生;若拼点没赢，则荀彧受到1点伤害。
+
+</Answer></Pair><Pair><Question>[Q]荀彧给体力上限超过5的角色补牌时，能补几张？
+</Question><Answer>[A]最多补至5张。</Answer></Pair></FAQs></Hero>

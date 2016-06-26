@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Hero><Name>诸葛亮</Name><Title>卧龙</Title><Id>SHU011</Id><Pack>火</Pack><MaxLifePoints>0</MaxLifePoints><IsMonarch>false</IsMonarch><IsDivine>false</IsDivine><Gender>男</Gender><Faction>蜀</Faction><Abilities><Ability><AbilityName>八阵</AbilityName><AbilityDescription>锁定技，若你的装备区里没有防具牌，你视为装备着【八卦阵】。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>true</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>火计</AbilityName><AbilityDescription>你可以将一张红色手牌当【火攻】使用。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability><Ability><AbilityName>看破</AbilityName><AbilityDescription>你可以将一张黑色手牌当【无懈可击】使用。</AbilityDescription><IsMonarchAbility>false</IsMonarchAbility><IsPassiveAbility>false</IsPassiveAbility><IsOneTimeAbility>false</IsOneTimeAbility></Ability></Abilities><AdditionalInfoForAbilities>
+★装备任何防具都会失去“八阵”的效果。</AdditionalInfoForAbilities><FAQs><Pair><Question>[Q]火计能否在一回合内多次使用？
+</Question><Answer>[A]可以。
+
+</Answer></Pair><Pair><Question>[Q]诸葛亮装备其他防具后，能否用自己的八阵技能替掉已装备的防具？
+</Question><Answer>[A]不能。
+
+</Answer></Pair><Pair><Question>[Q]诸葛亮能否放弃判定其自带的【八卦阵】？
+</Question><Answer>[A]可以。</Answer></Pair></FAQs></Hero>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="SQLite - ltk" uuid="051b0136-4c81-4507-844d-8e26b8698434">
+    <database-info product="SQLite" version="3.7.15" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
+    <schema name="" catalog=""/>
+    <table name="ABILITIES" schema="" catalog="" type="TABLE"/>
+    <table name="CARDS_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="CARD_TYPE" schema="" catalog="" type="TABLE"/>
+    <table name="DECK_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="FACTIONS" schema="" catalog="" type="TABLE"/>
+    <table name="FAQ_CARD_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="FAQ_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="GENDERS" schema="" catalog="" type="TABLE"/>
+    <table name="GENERAL_RULE" schema="" catalog="" type="TABLE"/>
+    <table name="HEROES_ROLE" schema="" catalog="" type="TABLE"/>
+    <table name="PACKAGES" schema="" catalog="" type="TABLE"/>
+    <table name="TERMINOLOGIES" schema="" catalog="" type="TABLE"/>
+    <table name="sqlite_sequence" schema="" catalog="" type="TABLE"/>
+  </data-source>
+</component>
